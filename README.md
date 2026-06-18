@@ -1,90 +1,93 @@
-<h1 align="center">Hi 👋, I'm Murugan B</h1>
-<h3 align="center">AI Full-Stack Developer | Building Scalable Web & GenAI Applications</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/murugan25072005"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://cinematic-portfoliomurugan.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:muruganbalachandran006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+# Murugan B
 
----
+**AI/ML Engineer & Full-Stack Developer**
 
-### 🚀 About Me
+Building production-grade systems at the intersection of applied machine learning and scalable web engineering
 
-- 🎓 **B.E. CSE (AI & ML)** recent graduate at KPR Institute of Engineering and Technology, Coimbatore (CGPA: 8.19)
-- 💻 Full-stack developer specializing in **MERN**, **TypeScript**, and **Python**, with a growing focus on **GenAI / LLM workflows**
-- 🔭 Currently building **Muzly** — a music recommendation system using emotion detection (CNN/FER2013) and CLIP-based contextual analysis
-- 🌱 Currently deepening my skills in **React Native**, **UI/UX design**, and applied **LLM/RAG systems**
-- 📝 Published research on deep learning for lung cancer detection and Alzheimer's prediction
-- 🏆 Solved 300+ problems on LeetCode and hold a 6-Star rating on HackerRank
-- 📫 Reach me at **muruganbalachandran006@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-141414?style=for-the-badge)](https://cinematic-portfoliomurugan.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge)](https://www.linkedin.com/in/murugan25072005)
+[![Email](https://img.shields.io/badge/Email-141414?style=for-the-badge)](mailto:muruganbalachandran006@gmail.com)
 
----
+</div>
 
-### 🛠️ Tech Stack
+<br>
 
-**Languages**
-<p>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-</p>
+## Profile
 
-**Frameworks & Libraries**
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-</p>
+Final-year Computer Science (AI & ML) engineer with a track record of shipping full-stack and ML systems end-to-end — from model design to production deployment. Two research papers accepted at IEEE-affiliated conferences. Built and deployed multiple GenAI-integrated products solo, each with a defined architecture, real datasets, and measurable scope rather than tutorial-grade demos.
 
-**Databases & Tools**
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</p>
+CGPA 8.19 · KPR Institute of Engineering and Technology, Coimbatore — 2022 to 2026
 
----
+<br>
 
-### 🌟 Featured Projects
+## Engineering Focus
 
-| Project | Description | Tech Stack |
+```
+Backend Systems     Python, Node.js, FastAPI, Express.js — REST APIs, microservices, JWT auth
+Frontend Systems    React.js, Next.js, TypeScript, Redux
+Applied ML          CNN architectures, CLIP, TensorFlow, OpenCV, RAG pipelines
+LLM / GenAI         Gemini API, vector retrieval, agentic workflows
+Data Layer          MongoDB, MySQL
+```
+
+<br>
+
+## Selected Work
+
+**Muzly** — Emotion-Aware Music Recommendation Engine
+Multimodal recommendation system combining CNN-based facial emotion detection (FER2013) with CLIP vision-language contextual scoring. Weighted-scoring pipeline served via FastAPI, evaluated against a 300+ track multilingual catalog.
+`Python` `FastAPI` `TensorFlow` `CLIP` `OpenCV` `React.js` `TypeScript` `MongoDB`
+
+**Sentra** — Automated PR Risk Analysis Platform
+Real-time GitHub PR diff analyzer that scores severity and risk for engineering teams, built on an event-driven Node.js backend with Gemini-powered analysis.
+`Next.js` `TypeScript` `Redux` `Node.js` `Gemini AI` `JWT`
+
+**TaxBuddy** — AI Tax Advisory Agent
+End-to-end AI agent for tax workflows using retrieval-augmented generation over a vector store, with Gemini-driven financial analysis for data-backed decisions.
+`React.js` `Firebase` `RAG` `Gemini AI` `VectorShift`
+
+<br>
+
+## Research
+
+- **SparseCNNet: Deep Learning Architecture for Rapid Lung Cancer Detection** — ICETI4T 2025
+- **Predicting Alzheimer's Disease and Mild Cognitive Impairment** — IEEE-sponsored ICC-ROBINS 2025
+
+<br>
+
+## Experience
+
+| Role | Organization | Duration |
 |---|---|---|
-| **[Muzly](https://github.com/)** | Music recommendation engine using CNN-based emotion detection (FER2013) + CLIP contextual analysis, served via a weighted-scoring FastAPI microservice over a 300+ track dataset | Python, FastAPI, React.js, TypeScript, TensorFlow, CLIP, OpenCV |
-| **[Sentra](https://github.com/)** | Real-time GitHub PR diff analyzer generating severity-based risk assessments, powered by Gemini AI in an event-driven Node.js backend | Next.js, TypeScript, Redux, Node.js, Gemini AI, JWT |
-| **[TaxBuddy](https://github.com/)** | AI agent for end-to-end tax management using RAG and vector-based document retrieval, integrated with Gemini AI | React.js, Firebase, Lyzr AI, Gemini AI, RAG, VectorShift |
+| Software Developer Intern | Web Dev Open | Jan 2025 – Apr 2025 |
+| Machine Learning Intern | Cognifyz Technologies | Dec 2023 – Jan 2024 |
 
----
+<br>
 
-### 💼 Experience
+## Track Record
 
-- **Software Developer Intern** @ Web Dev Open *(Jan 2025 – Apr 2025)* — Built a full-stack MERN blog platform with JWT auth and RESTful CRUD APIs
-- **Machine Learning Intern** @ Cognifyz Technologies *(Dec 2023 – Jan 2024)* — End-to-end ML pipelines for restaurant rating prediction and cuisine classification
-- **Machine Learning Engineer** @ CodSoft *(Jun 2024 – Jul 2024)*
+- Ranked in the **top 25 of 200+ teams** at the Intel OneAPI Generative AI Hackathon
+- **300+ problems solved** on LeetCode across data structures and algorithms
+- **6-star HackerRank** rating in Problem Solving
+- Certified: IBM Machine Learning Specialization · NPTEL Introduction to LLMs · IBM Full-Stack Web Development · GitHub Foundations
 
----
+<br>
 
-### 📊 GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuruganBalachandran&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuruganBalachandran&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuruganBalachandran&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MuruganBalachandran&show_icons=true&theme=default&hide_border=true&hide_title=true&bg_color=ffffff&icon_color=141414&text_color=333333&title_color=141414"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuruganBalachandran&layout=compact&theme=default&hide_border=true&bg_color=ffffff&text_color=333333&title_color=141414"/>
 
----
+</div>
 
-<p align="center"><i>⚡ Always open to collaborating on full-stack and GenAI projects — let's build something great!</i></p>
+<br>
+
+<div align="center">
+
+Open to roles in full-stack engineering, applied ML, and GenAI product development
+
+</div>
