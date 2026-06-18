@@ -16,7 +16,7 @@ Building production-grade systems at the intersection of applied machine learnin
 
 ## Profile
 
-Final-year Computer Science (AI & ML) engineer with a track record of shipping full-stack and ML systems end-to-end — from model design to production deployment. Two research papers accepted at IEEE-affiliated conferences. Built and deployed multiple GenAI-integrated products solo, each with a defined architecture, real datasets, and measurable scope rather than tutorial-grade demos.
+Computer Science (AI & ML) Graduate with a track record of shipping full-stack and ML systems end-to-end — from model design to production deployment. Two research papers accepted at IEEE-affiliated conferences. Built and deployed multiple GenAI-integrated products solo, each with a defined architecture, real datasets, and measurable scope rather than tutorial-grade demos.
 
 CGPA 8.19 · KPR Institute of Engineering and Technology, Coimbatore — 2022 to 2026
 
